@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "593321865874",
+    "firebase_url": "https://ravi-26aff-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ravi-26aff",
+    "storage_bucket": "ravi-26aff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593321865874:android:97a24127705f88938cec4b",
+        "android_client_info": {
+          "package_name": "com.chats.kelompok1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593321865874-dg8u5df3sa82qlmd33hbibagtkalm5jt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrkMi0nnOpBm_iEJAGrmq3e3I7LeQWVgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593321865874-dg8u5df3sa82qlmd33hbibagtkalm5jt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
